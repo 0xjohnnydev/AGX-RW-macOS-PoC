@@ -1,0 +1,14 @@
+.DS_Store
+/build/
+sapt-kernel-page-poc
+/research_output/
+
+# Local executables
+/driver-gfx-control-probe
+/driver-gfx-power-probe
+/driver-gfx-reg-probe
+/iomfb-power
+/kernel-ro-gfx-probe
+/tpro-gfx-write-poc
+/tpro-metal-probe
+/tpro_probe
